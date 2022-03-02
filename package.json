@@ -1,5 +1,5 @@
 {
-  "name": "discordjs-utils",
+  "name": "disjs-util",
   "version": "1.0.0",
   "description": "Functions to help with discord.js!",
   "main": "src/index.js",
