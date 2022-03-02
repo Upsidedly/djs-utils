@@ -9,5 +9,5 @@ import { MessageActionRow } from "discord.js";
  * Disabled MessageActionRow
  */
 export function disableRow(row) {
-    return new MessageActionRow().addComponents(row.com)
+    return new MessageActionRow().addComponents(row.components.map(c => c.setDisabled()))
 }
