@@ -1,4 +1,4 @@
-# djs-utils
+# discordjs-utils
 
 [Discord.js](https://discord.js.org/#/) related function(s) to make my life easier.
 ## functions
