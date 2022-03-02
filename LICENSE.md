@@ -1,4 +1,4 @@
-# ISC Lisence
+# ISC Licence
 
 Copyright 2022 Upsided  
 
