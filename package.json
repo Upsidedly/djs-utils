@@ -13,7 +13,7 @@
     "upsided"
   ],
   "author": "upsided",
-  "license": "ISC",
+  "license": "SEE LICENSE IN LICENSE.md",
   "type": "module",
   "types": "src/index.d.ts",
   "dependencies": {
